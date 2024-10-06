@@ -49,11 +49,14 @@ Turno D: Aula TAU Labc [Informatica - Celoria 18]
 
 ### Pagine di riferimento
 
-Pagina del corso: [Prof. Cazzola (teoria)](https://cazzola.di.unimi.it/prog.html)
+Pagina del corso: [Prof. Cazzola (teoria)](https://cazzola.di.unimi.it/prog.html) https://cazzola.di.unimi.it/prog.html
 
-Esercizi: [Github](https://github.com/LabProgrammazione1/Lab_2024-25)
+Esercizi: [Github](https://github.com/LabProgrammazione1/Lab_2024-25) --> https://shorturl.at/miJPX
 
-Comunicazioni: [Canale Telegram](https://t.me/+VEeXSK_XSRlkNDlk)
+### Comunicazioni
+
+[Canale Telegram](https://t.me/+VEeXSK_XSRlkNDlk)
+![](qr.png "Telegram link")
 
 *Controllate periodicamente per avvisi, variazioni calendario lezioni, materiali del corso, date appelli, ...*
 
