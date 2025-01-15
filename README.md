@@ -129,6 +129,6 @@ Regole:
 
 ### Risorse online
 
-* [**Go Bootcamp** - Matt Aimonetti](http://www.golangbootcamp.com/book/)
+* [**Go Bootcamp** - Matt Aimonetti](https://github.com/rachitvk/ebooks/blob/master/golang/Go%20Bootcamp%20%5BMatt%20Aimonetti%5D.pdf/)
 * [**Documentazione Go**](https://golang.org/doc/)
 * [**Documentazione Package Go**](https://golang.org/pkg)
